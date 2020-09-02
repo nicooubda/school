@@ -1,0 +1,7 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+scolarite		NFI		nouveau fichier
+paiement		NFI		nouveau fichier
+eleve		NFI		nouveau fichier
+daterentree		NFI		nouveau fichier
+classese		NFI		nouveau fichier
+Connexion à MySQL		CNX+		

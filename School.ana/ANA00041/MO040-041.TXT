@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+classese		TAR	287	nouvelle taille enregistrement : 287
+classese	ClasseExamen	RUB+		ClasseExamen est une nouvelle rubrique

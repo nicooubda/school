@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+infoetablissement		TAR	1036	nouvelle taille enregistrement : 1036
+infoetablissement	Logo	RUB+		Logo est une nouvelle rubrique

@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+situation		TAR	281	nouvelle taille enregistrement : 281
+situation	ScolariteTotal	RUB+		ScolariteTotal est une nouvelle rubrique

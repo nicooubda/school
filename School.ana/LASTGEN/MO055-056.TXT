@@ -1,0 +1,3 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+eleve		TAR	1387	nouvelle taille enregistrement : 1387
+eleve	AnneeScolaire	RUB-		la rubrique AnneeScolaire est supprimée

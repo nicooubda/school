@@ -1,0 +1,3 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+autreversement		TAR	840	nouvelle taille enregistrement : 840
+autreversement	Motif	RUB+		Motif est une nouvelle rubrique

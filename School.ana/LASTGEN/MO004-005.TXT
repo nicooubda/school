@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+eleve		TAR	1131	nouvelle taille enregistrement : 1131
+eleve	Sexe	TAI+	10	la rubrique Sexe a comme nouvelle taille 16 au lieu de 6

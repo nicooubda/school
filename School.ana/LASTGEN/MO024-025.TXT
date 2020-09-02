@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+autreversement		TAR	533	nouvelle taille enregistrement : 533
+autreversement	NumReçu	CNW	Entier sur 4 octets$Chaîne	la rubrique NumReçu a pour nouveau type Entier sur 4 octets

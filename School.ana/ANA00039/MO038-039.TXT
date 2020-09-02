@@ -1,0 +1,5 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+situation	ResteApayer	CLEN		la rubrique ResteApayer est maintenant une clé
+paiement	OptimCleComp_Matri_DateP	RUB+		OptimCleComp_Matri_DateP est une nouvelle clé
+eleve	DateInscription	CLEN		la rubrique DateInscription est maintenant une clé
+eleve	OptimCleComp_NomCl_DateI	RUB+		OptimCleComp_NomCl_DateI est une nouvelle clé

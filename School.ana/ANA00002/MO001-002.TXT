@@ -1,0 +1,14 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+scolarite		TAR	284	nouvelle taille enregistrement : 284
+scolarite	NomClasse	CLEN		la rubrique NomClasse est maintenant une clé
+scolarite	NomClasse	TAI+	5	la rubrique NomClasse a comme nouvelle taille 256 au lieu de 251
+paiement	Matricule	CLEN		la rubrique Matricule est maintenant une clé
+eleve		TAR	1121	nouvelle taille enregistrement : 1121
+eleve	Matricule	CLEU		la rubrique Matricule est maintenant une clé
+eleve	NomClasse	NNR	ClasseEleve	ATTENTION : la clé ClasseEleve a pour nouveau nom NomClasse
+eleve	NomClasse	CLEN		la rubrique NomClasse est maintenant une clé
+eleve	NomClasse	TAI+	205	la rubrique NomClasse a comme nouvelle taille 256 au lieu de 51
+classese	NomClasse	CLEU		la rubrique NomClasse est maintenant une clé
+eleve		NWL	eleve (Matricule) et paiement (Matricule)	Nouvelle liaison entre les fichiers eleve (Matricule) et paiement (Matricule)
+classese		NWL	classese (NomClasse) et scolarite (NomClasse)	Nouvelle liaison entre les fichiers classese (NomClasse) et scolarite (NomClasse)
+classese		NWL	classese (NomClasse) et eleve (NomClasse)	Nouvelle liaison entre les fichiers classese (NomClasse) et eleve (NomClasse)

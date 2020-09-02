@@ -1,0 +1,14 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+autretypedeversement		FCNX+	Connexion à 127.0.0.1	
+infoetablissement		FCNX+	Connexion à 127.0.0.1	
+transaction		FCNX+	Connexion à 127.0.0.1	
+autreversement		FCNX+	Connexion à 127.0.0.1	
+situation		FCNX+	Connexion à 127.0.0.1	
+scolarite		FCNX+	Connexion à 127.0.0.1	
+paiement		FCNX+	Connexion à 127.0.0.1	
+eleve		FCNX+	Connexion à 127.0.0.1	
+daterentree		FCNX+	Connexion à 127.0.0.1	
+classese		FCNX+	Connexion à 127.0.0.1	
+Connexion à 127.0.0.1		CNX+		
+paiement		FRN		
+situation		FRN		

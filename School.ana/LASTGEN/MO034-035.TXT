@@ -1,0 +1,3 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+autretypedeversement		TAR	264	nouvelle taille enregistrement : 264
+autretypedeversement	Designation	CNW	Chaîne$Date (aaaammjj)	la rubrique Designation a pour nouveau type Chaîne

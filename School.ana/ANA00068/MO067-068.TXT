@@ -1,0 +1,15 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+autretypedeversement		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+autretypedeversement		FCNX+	Connexion à 127.0.0.1	
+infoetablissement		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+infoetablissement		FCNX+	Connexion à 127.0.0.1	
+transaction		FCNX+	Connexion à 127.0.0.1	
+autreversement		FCNX+	Connexion à 127.0.0.1	
+situation		FCNX+	Connexion à 127.0.0.1	
+scolarite		FCNX+	Connexion à 127.0.0.1	
+paiement		FCNX+	Connexion à 127.0.0.1	
+eleve		FCNX+	Connexion à 127.0.0.1	
+daterentree		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+daterentree		FCNX+	Connexion à 127.0.0.1	
+classese		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+classese		FCNX+	Connexion à 127.0.0.1	

@@ -1,0 +1,21 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+transaction		TAR	59	nouvelle taille enregistrement : 59
+transaction		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+transaction	Table	CLE-		la rubrique Table n'est plus une clé
+transaction	Valeur	CNW	Entier sur 4 octets$Entier sur 1 octet	la rubrique Valeur a pour nouveau type Entier sur 4 octets
+autreversement		TAR	584	nouvelle taille enregistrement : 584
+autreversement		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+autreversement	Matricule	CLE-		la rubrique Matricule n'est plus une clé
+autreversement	Matricule	TAI-	205	la rubrique Matricule a comme nouvelle taille 51 au lieu de 256
+situation		TAR	76	nouvelle taille enregistrement : 76
+situation		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+situation	Matricule	CLE-		la rubrique Matricule n'est plus une clé
+situation	Matricule	TAI-	205	la rubrique Matricule a comme nouvelle taille 51 au lieu de 256
+scolarite		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+paiement		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+paiement	NuméroReçu	CLE-		la rubrique NuméroReçu n'est plus une clé
+eleve		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+eleve	NomEleve	CLEN		la rubrique NomEleve est maintenant une clé
+eleve		DEL	eleve (Matricule) et paiement (Matricule)	Liaison supprimée entre les fichiers eleve (Matricule) et paiement (Matricule)
+classese		DEL	classese (NomClasse) et scolarite (NomClasse)	Liaison supprimée entre les fichiers classese (NomClasse) et scolarite (NomClasse)
+classese		DEL	classese (NomClasse) et eleve (NomClasse)	Liaison supprimée entre les fichiers classese (NomClasse) et eleve (NomClasse)

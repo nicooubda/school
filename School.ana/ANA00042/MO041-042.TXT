@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+situation		TAR	131	nouvelle taille enregistrement : 131
+situation	FraisDossier	RUB+		FraisDossier est une nouvelle rubrique

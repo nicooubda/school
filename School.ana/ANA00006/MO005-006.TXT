@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+paiement		TAR	100	nouvelle taille enregistrement : 100
+paiement	NuméroReçu	RUB+		NuméroReçu est une nouvelle clé

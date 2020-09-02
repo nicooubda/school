@@ -1,0 +1,2 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+autreversement	Matricule	CLEN		la rubrique Matricule est maintenant une clé
